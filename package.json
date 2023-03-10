@@ -1,0 +1,7 @@
+{
+  "name": "linear_regression",
+  "version": "1.0.0",
+  "author": "Yongling Chen",
+  "main": "index.js",
+  "license": "MIT"
+}
